@@ -5,5 +5,5 @@ Thanks to kijungs, this project draws on the excellent code in [Tri-fly](https:/
 ## Datasets
 This public datasets are all from [SNAP](http://snap.stanford.edu/data/index.html)(Stanford Large Dataset Netword Collection).
 
-##User Guide
+## User Guide
 Plice click [here](https://github.com/kijungs/trifly/blob/master/user_guide.pdf).
