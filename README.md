@@ -7,3 +7,6 @@ This public datasets are all from [SNAP](http://snap.stanford.edu/data/index.htm
 
 ## User Guide
 Plice click [here](https://github.com/kijungs/trifly/blob/master/user_guide.pdf).
+
+## Connect Us
+Xu Yang, yangxu@stu.xjtu.edu.cn
